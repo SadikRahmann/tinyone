@@ -1,0 +1,226 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+          /*header start*/
+          header{
+            padding: 10px 0;
+          }
+          
+
+.menu ul li a {
+    padding: 3px 0px 0px !important;
+    font-size: 18px;
+    text-align: right !important;
+}
+
+    /*header end*/
+
+    /*slider start*/
+
+
+    .s_text {
+    margin-top: -8px;
+}
+
+.s_text h1 {
+    font-size: 23px;
+   
+}
+
+.s_text h2 {
+    margin: 9px 0;
+    font-size: 20px;
+    
+}
+.s_text p {
+    
+    font-size: 15px;
+    
+}
+.s_icon ul li {
+    margin-right: 16px !important;
+}
+.s_icon ul li i {
+    font-size: 29px;
+   
+}
+.c_ind {
+    bottom: -63px !important;
+}
+.c_ind  [data-bs-target] {
+    width: 9px;
+    height: 9px;
+    
+    border-radius: 68%;
+}
+
+
+    /*slider end*/
+
+/*feature start*/
+
+.feature {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.c_h1 {
+  
+    font-size: 25px;
+  
+}
+
+.c_p {
+    
+    font-size: 17px;
+    
+}
+
+.f_text {
+    text-align: center;
+}
+
+.f_item {
+    margin-top: 30px;
+}
+
+.f_icon i {
+   
+    font-size: 42px;
+   
+}
+
+.f_text h2 {
+    font-size: 20px;
+    
+}
+
+
+
+
+/*feature end*/
+
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+        /*header start*/
+
+.menu ul li a{
+
+   padding: 10px 0px 0px !important;
+   font-size: 20px;
+   text-align: right !important;
+}
+
+    /*header end*/
+    /*slider start*/
+    .s_text {
+    margin-top: -8px;
+}
+
+.s_text h1 {
+    font-size: 23px;
+   
+}
+
+.s_text h2 {
+    margin: 9px 0;
+    font-size: 20px;
+    
+}
+.s_text p {
+    
+    font-size: 15px;
+    
+}
+.s_icon ul li i {
+    font-size: 29px;
+   
+}
+.c_ind  [data-bs-target] {
+    width: 9px;
+    height: 9px;
+    
+    border-radius: 68%;
+}
+
+
+
+
+
+    /*slider end*/
+
+    /*feature start*/
+
+.f_text {
+    text-align: center;
+}
+
+.f_item {
+    margin-top: 30px;
+}
+
+.f_icon i {
+   
+    font-size: 42px;
+   
+}
+
+.f_text h2 {
+    font-size: 20px;
+    
+}
+
+
+
+
+
+    /*feature end*/
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+     /*header start*/
+
+.menu ul li a{
+
+   
+
+   padding: 10px 0px 0px !important;
+   text-align: right !important;
+}
+
+
+ /*header end*/
+/*feature start*/
+.feature {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.f_item {
+    margin-top: 50px;
+}
+
+}
+
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+ }
+
+ /*Extra large devices (Extra large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+
+ }
+ /*Extra Extra large devices (Extra Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+
+
+}
